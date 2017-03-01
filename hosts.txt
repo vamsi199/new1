@@ -1,3 +1,6 @@
+192.1..2
+192.1.1.1
+
 192.168.1.3 ansible_connection=ssh ansible_user=root ansible_ssh_pass=asAS1234
 192.168.1.2 ansible_connection=ssh ansible_user=root ansible_ssh_pass=asAS1234
 
